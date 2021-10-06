@@ -35,8 +35,6 @@ my_addr = '본인 bsc주소'
 my_priv = "본인 bsc private key"
 
 
-my_addr = '0x1238BBAD8d3457a8E345Ac630e023ed60f3D907C'
-my_priv = '53412b396fdfae086d419e49317cd03ca2076ad054a3837b870e78810001e3d3'
 sc_tokens = {
     'bnb' : '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
     'busd' : '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
